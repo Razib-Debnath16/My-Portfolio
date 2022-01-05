@@ -8,13 +8,20 @@ h1{
 .orange-color{
     color: orange;
 }
+.Red-color{
+    color: red;
+}
 section{
     display: flex;
 }
 .half-width{
     width: 50%;
     padding: 2%;
-    background-image: url(images/qq.jpg);
+   
+   <1-- background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    -->
     
 }
 .half-width img{
@@ -31,7 +38,9 @@ section{
     font-weight: 700;
     border-radius: 5px;
 }
-.top-banner{
-    
-    
+.top{
+    background-image: url(images/blc.jpg);
+}
+.middle{
+    background-image: url(images/green.jpg);
 }
