@@ -17,10 +17,10 @@ h1{
 }
 .half-width{
     width: 50%;
-    padding: 2%;
-   
-
-    
+    padding: 2%;   
+}
+h2{
+    font-size: 40px;
 }
 .half-width img{
     width: 80%;
@@ -50,7 +50,22 @@ h1{
     background-repeat: no-repeat;
     background-position: right;
 }
-.ABC{
-    background-color: tomato;
-    color: tomato;
+.abc{
+    font-weight: 900;
+}
+
+.box-sh{
+    box-shadow: 10px 10px 10px 10px gray;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+.sec-final{
+    background-image: url(images/bg6_1_30.jpg);
+    background-repeat: no-repeat;
+    background-position: top;
+
 }
