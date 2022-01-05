@@ -69,3 +69,17 @@ h2{
     background-position: top;
 
 }
+#border-one{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}  
+#border-two{
+    border-left: 10px solid;
+    border-image: linear-gradient(green,indigo);
+    border-image-slice: 1;
+}   
+footer p{
+    text-align: center;
+    font-weight: 900;
+}      
