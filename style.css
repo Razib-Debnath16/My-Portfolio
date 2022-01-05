@@ -11,17 +11,15 @@ h1{
 .Red-color{
     color: red;
 }
-section{
+.flexible{
     display: flex;
+    
 }
 .half-width{
     width: 50%;
     padding: 2%;
    
-   <1-- background-image: url(images/dream-bg.png);
-    background-repeat: no-repeat;
-    background-position: right;
-    -->
+
     
 }
 .half-width img{
@@ -43,4 +41,16 @@ section{
 }
 .middle{
     background-image: url(images/green.jpg);
+}
+.bottom-left{
+    background-image: url(images/top-banner.png);
+}
+.bottom-right{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.ABC{
+    background-color: tomato;
+    color: tomato;
 }
